@@ -1,0 +1,4 @@
+code result	true
+make coffee	true
+make tea	false
+make pancakes	false
